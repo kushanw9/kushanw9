@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I'm Kushan Weerarathne, a **graduate engineering student** with a passion for 👨‍💻 web development. I have honed my skills in both front-end and back-end web development. My goal is to create visually appealing, user-friendly websites that deliver exceptional experiences. What excites me most about web development is its ever-evolving nature. I am dedicated to staying up-to-date with the latest technologies and trends, constantly seeking opportunities to expand my knowledge and skill set. Whether it's mastering new frameworks or exploring innovative design patterns, I am committed to pushing the boundaries of what's possible in the digital realm. 
+🎓I'm Kushan Weerarathne, a web development enthusiast and **graduate engineering student**. My journey in this field has led me to master both front-end and back-end web development. What truly fuels my passion is crafting captivating websites that not only look stunning but also provide an unforgettable user experience.
+
+The dynamic world of web development constantly keeps me on my toes, and that's what I find exhilarating about it. Staying in sync with the ever-evolving technologies and trends is my commitment. I thrive on seizing every chance to broaden my knowledge and enhance my skill set. From conquering new frameworks to exploring cutting-edge design patterns, I'm driven to redefine the boundaries of the digital realm.
 
 ## 🛠️ Skills
 
